@@ -44,6 +44,7 @@ button
   border-radius: 1px;
   font-family: 'Press Start 2P', cursive;
   align-self: center;
+  padding: 8px;
 }
 #text
 {
