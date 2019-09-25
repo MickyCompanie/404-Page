@@ -46,6 +46,15 @@ button
   align-self: center;
   padding: 8px;
 }
+button:hover
+{
+  background-color: lightgray;
+  border-radius: 1px;
+  font-family: 'Press Start 2P', cursive;
+  color: black;
+  align-self: center;
+  padding: 8px;
+}
 #text
 {
   height: 65%;
